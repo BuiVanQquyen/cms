@@ -1,0 +1,10 @@
+D:\MeeyLand\MeeyPage\MeeyPage\MeeyPage.Service\bin\Debug\netcoreapp3.1\MeeyPage.Service.deps.json
+D:\MeeyLand\MeeyPage\MeeyPage\MeeyPage.Service\bin\Debug\netcoreapp3.1\MeeyPage.Service.dll
+D:\MeeyLand\MeeyPage\MeeyPage\MeeyPage.Service\bin\Debug\netcoreapp3.1\MeeyPage.Service.pdb
+D:\MeeyLand\MeeyPage\MeeyPage\MeeyPage.Service\obj\Debug\netcoreapp3.1\MeeyPage.Service.csproj.AssemblyReference.cache
+D:\MeeyLand\MeeyPage\MeeyPage\MeeyPage.Service\obj\Debug\netcoreapp3.1\MeeyPage.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeeyLand\MeeyPage\MeeyPage\MeeyPage.Service\obj\Debug\netcoreapp3.1\MeeyPage.Service.AssemblyInfoInputs.cache
+D:\MeeyLand\MeeyPage\MeeyPage\MeeyPage.Service\obj\Debug\netcoreapp3.1\MeeyPage.Service.AssemblyInfo.cs
+D:\MeeyLand\MeeyPage\MeeyPage\MeeyPage.Service\obj\Debug\netcoreapp3.1\MeeyPage.Service.csproj.CoreCompileInputs.cache
+D:\MeeyLand\MeeyPage\MeeyPage\MeeyPage.Service\obj\Debug\netcoreapp3.1\MeeyPage.Service.dll
+D:\MeeyLand\MeeyPage\MeeyPage\MeeyPage.Service\obj\Debug\netcoreapp3.1\MeeyPage.Service.pdb

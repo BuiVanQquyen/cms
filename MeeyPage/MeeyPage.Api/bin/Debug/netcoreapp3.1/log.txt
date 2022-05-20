@@ -1,0 +1,5 @@
+
+Log Entry : 10:01:25 AM Friday, May 20, 2022
+  :
+  :One or more errors occurred. (Request resource doesn't contain a valid scheme for an empty base URL of the client (Parameter 'request'))  
+-------------------------------

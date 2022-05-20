@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MeeyPage.Data/1.0.0": {
+        "runtime": {
+          "MeeyPage.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MeeyPage.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
